@@ -1,0 +1,11 @@
+/Users/danteharasz/sdg/unit-III/DanteOnSafari/bin/Debug/netcoreapp2.2/DanteOnSafari.deps.json
+/Users/danteharasz/sdg/unit-III/DanteOnSafari/bin/Debug/netcoreapp2.2/DanteOnSafari.runtimeconfig.json
+/Users/danteharasz/sdg/unit-III/DanteOnSafari/bin/Debug/netcoreapp2.2/DanteOnSafari.runtimeconfig.dev.json
+/Users/danteharasz/sdg/unit-III/DanteOnSafari/bin/Debug/netcoreapp2.2/DanteOnSafari.dll
+/Users/danteharasz/sdg/unit-III/DanteOnSafari/bin/Debug/netcoreapp2.2/DanteOnSafari.pdb
+/Users/danteharasz/sdg/unit-III/DanteOnSafari/obj/Debug/netcoreapp2.2/DanteOnSafari.csprojAssemblyReference.cache
+/Users/danteharasz/sdg/unit-III/DanteOnSafari/obj/Debug/netcoreapp2.2/DanteOnSafari.csproj.CoreCompileInputs.cache
+/Users/danteharasz/sdg/unit-III/DanteOnSafari/obj/Debug/netcoreapp2.2/DanteOnSafari.AssemblyInfoInputs.cache
+/Users/danteharasz/sdg/unit-III/DanteOnSafari/obj/Debug/netcoreapp2.2/DanteOnSafari.AssemblyInfo.cs
+/Users/danteharasz/sdg/unit-III/DanteOnSafari/obj/Debug/netcoreapp2.2/DanteOnSafari.dll
+/Users/danteharasz/sdg/unit-III/DanteOnSafari/obj/Debug/netcoreapp2.2/DanteOnSafari.pdb
